@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+/CarTheft/CarTheft/bin
+/CarTheft/CarTheft/obj/Debug
+/CarTheft/packages
